@@ -1,2 +1,2 @@
 # Cubotino
- Cubotino modifications
+ See CUBOTino2 project.
